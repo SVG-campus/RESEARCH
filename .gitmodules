@@ -19,3 +19,6 @@
 [submodule "Economics/Wasserstein-Distributionally-Robust-Optimization-DRO-Module"]
 	path = Economics/Wasserstein-Distributionally-Robust-Optimization-DRO-Module
 	url = https://github.com/SVG-campus/Wasserstein-Distributionally-Robust-Optimization-DRO-Module.git
+[submodule "Economics/Unified-Robust-Duality-Informed-Convex-Equilibrium-Allocation-Theory"]
+	path = Economics/Unified-Robust-Duality-Informed-Convex-Equilibrium-Allocation-Theory
+	url = https://github.com/SVG-campus/Unified-Robust-Duality-Informed-Convex-Equilibrium-Allocation-Theory.git
