@@ -16,3 +16,6 @@
 [submodule "Economics/Autocorrelation-Penalty-Module"]
 	path = Economics/Autocorrelation-Penalty-Module
 	url = https://github.com/SVG-campus/Autocorrelation-Penalty-Module.git
+[submodule "Economics/Wasserstein-Distributionally-Robust-Optimization-DRO-Module"]
+	path = Economics/Wasserstein-Distributionally-Robust-Optimization-DRO-Module
+	url = https://github.com/SVG-campus/Wasserstein-Distributionally-Robust-Optimization-DRO-Module.git
