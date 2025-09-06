@@ -22,3 +22,6 @@
 [submodule "Economics/Unified-Robust-Duality-Informed-Convex-Equilibrium-Allocation-Theory"]
 	path = Economics/Unified-Robust-Duality-Informed-Convex-Equilibrium-Allocation-Theory
 	url = https://github.com/SVG-campus/Unified-Robust-Duality-Informed-Convex-Equilibrium-Allocation-Theory.git
+[submodule "Medicine/In-Silico-Brain-Drug-Delivery-Simulation"]
+	path = Medicine/In-Silico-Brain-Drug-Delivery-Simulation
+	url = https://github.com/SVG-campus/In-Silico-Brain-Drug-Delivery-Simulation
