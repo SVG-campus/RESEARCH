@@ -13,3 +13,6 @@
 [submodule "Economics/CVaR-Adjusted-Update-Module"]
 	path = Economics/CVaR-Adjusted-Update-Module
 	url = https://github.com/SVG-campus/CVaR-Adjusted-Update-Module.git
+[submodule "Economics/Autocorrelation-Penalty-Module"]
+	path = Economics/Autocorrelation-Penalty-Module
+	url = https://github.com/SVG-campus/Autocorrelation-Penalty-Module.git
