@@ -25,3 +25,12 @@
 [submodule "Medicine/In-Silico-Brain-Drug-Delivery-Simulation"]
 	path = Medicine/In-Silico-Brain-Drug-Delivery-Simulation
 	url = https://github.com/SVG-campus/In-Silico-Brain-Drug-Delivery-Simulation
+[submodule "Machine Learning/Infinite-Dimensional-Bayesian-Posterior-Operator"]
+	path = Machine Learning/Infinite-Dimensional-Bayesian-Posterior-Operator
+	url = https://github.com/SVG-campus/Infinite-Dimensional-Bayesian-Posterior-Operator.git
+[submodule "Machine Learning/Kolmogorov-Complexity-Constraint-Module"]
+	path = Machine Learning/Kolmogorov-Complexity-Constraint-Module
+	url = https://github.com/SVG-campus/Kolmogorov-Complexity-Constraint-Module.git
+[submodule "Machine Learning/Multi-Information-Bottleneck-Module"]
+	path = Machine Learning/Multi-Information-Bottleneck-Module
+	url = https://github.com/SVG-campus/Multi-Information-Bottleneck-Module.git
